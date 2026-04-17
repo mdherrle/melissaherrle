@@ -21,8 +21,8 @@
   --card-bg:     #FFF9F5;
   --border:      #E8DDD4;
 
-  --font-heading: 'Playfair Display', Georgia, serif;
-  --font-body:    'Inter', system-ui, sans-serif;
+  --font-heading: 'Poppins', system-ui, sans-serif;
+  --font-body:    'DM Sans', system-ui, sans-serif;
 
   --max-w:  1140px;
   --radius: 12px;
@@ -249,7 +249,7 @@ a  { color: inherit; text-decoration: none; }
 .hero-sub {
   font-size: clamp(1rem, 2.5vw, 1.2rem);
   color: var(--brown-mid);
-  font-style: italic;
+  font-style: normal;
   font-family: var(--font-heading);
   margin-bottom: 2.5rem;
   max-width: 560px;
