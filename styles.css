@@ -7,8 +7,8 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
-  --cream:       #FAF7F2;
-  --cream-dark:  #F2EDE4;
+  --cream:       #FFFFFF;
+  --cream-dark:  #F5F5F5;
   --terracotta:  #C47B5A;
   --terra-light: #E8A88A;
   --terra-dark:  #A05E40;
